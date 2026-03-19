@@ -21,7 +21,7 @@
 <a href="https://t.me/bipolarfedd" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
 </a>
-<a href="https://discord.com/invite/9TNzhJhz" target="_blank">
+<a href="https://discord.gg/ZePFfpJRcu" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" />
 </a>
 
