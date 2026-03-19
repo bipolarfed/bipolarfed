@@ -11,8 +11,8 @@
 ---
 
 <!-- DISCORD LIVE STATUS (Requires joining Lanyard Discord) -->
-<a href="https://discord.com/users/1447761231409713213">
-  <img src="https://lanyard.cnrad.dev/api/1447761231409713213?theme=dark&bg=000000&animated=true" alt="Discord Presence" />
+<a href="https://discord.com/users/1474837366094172281">
+  <img src="https://lanyard.cnrad.dev/api/1474837366094172281?theme=dark&bg=000000&animated=true" alt="Discord Presence" />
 </a>
 
 <br>
